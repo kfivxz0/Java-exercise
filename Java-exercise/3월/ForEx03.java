@@ -1,6 +1,6 @@
-public class Ex03 {
+public class ForEx03 {
     public static void main(String[] args) {
-//        1+1+2+1+2+3+1+2+3+4+...+1+2+3+...+10 의 결과값을 구하시오.
+        // 1+1+2+1+2+3+1+2+3+4+...+1+2+3+...+10 의 결과값을 구하시오.
         int sum = 0;
         int rs = 0;
 
